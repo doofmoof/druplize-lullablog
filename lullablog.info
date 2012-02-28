@@ -15,7 +15,6 @@ features[field][] = "node-blog_post-body"
 features[field][] = "node-blog_post-field_lullablog_entry_image"
 features[field][] = "node-blog_post-field_lullablog_subtitle"
 features[node][] = "blog_post"
-<<<<<<< HEAD
 features[user_permission][] = "access comments"
 features[user_permission][] = "administer comments"
 features[user_permission][] = "create blog_post content"
@@ -28,8 +27,6 @@ features[user_permission][] = "post comments"
 features[user_permission][] = "skip comment approval"
 features[user_permission][] = "use text format filtered_html"
 features[user_role][] = "Lulla Blogger"
-=======
->>>>>>> 81c22fe5129da03013af419cc31a1459b92676e4
 features[variable][] = "comment_anonymous_blog_post"
 features[variable][] = "comment_blog_post"
 features[variable][] = "comment_default_mode_blog_post"
